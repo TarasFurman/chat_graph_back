@@ -1,0 +1,54 @@
+.idea
+.vscode
+\venv
+db.sqlite3
+.DS_Store
+config/settings/dev.py
+*.pid
+*.mo
+
+
+# Created by https://www.gitignore.io/api/python,django,virtualenv
+# Edit at https://www.gitignore.io/?templates=python,django,virtualenv
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+settings.ini
+media
+static
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
