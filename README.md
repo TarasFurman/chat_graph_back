@@ -15,15 +15,15 @@ cd chat_graph_back
 pip install -r requirements.txt
 
 3. Create .env file with next keys (or use existing one in project):
-DJANGO_SETTINGS_MODULE
-DJANGO_CONFIGURATION
-DEBUG
-DB_NAME
-DB_USER
-DB_PASSWORD
-DB_HOST
-DB_PORT
-SECRET_KEY
+DJANGO_SETTINGS_MODULE<br/>
+DJANGO_CONFIGURATION<br/>
+DEBUG<br/>
+DB_NAME<br/>
+DB_USER<br/>
+DB_PASSWORD<br/>
+DB_HOST<br/>
+DB_PORT<br/>
+SECRET_KEY<br/>
 
 4. Create postgresql database and user with names and password from .env file
 
